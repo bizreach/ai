@@ -8,7 +8,7 @@
 
 ## AI室紹介
 
-<img src="intro1.png" alt="AI室紹介" title="AI室紹介" width="800">
+<img src="images/intro1.png" alt="AI室紹介" title="AI室紹介" width="800">
 
-<img src="intro2.png" alt="AI室紹介" title="AI室紹介" width="800">
+<img src="images/intro2.png" alt="AI室紹介" title="AI室紹介" width="800">
 
