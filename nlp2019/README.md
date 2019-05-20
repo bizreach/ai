@@ -6,7 +6,7 @@
   ZHONGSHENG WANG, 菅谷信介, Dat P.T. Nguyen (Bizreach)
 
 
-## AI室紹介
+## スポンサー展示
 
 <img src="images/intro1.png" alt="AI室紹介" title="AI室紹介" width="800">
 
