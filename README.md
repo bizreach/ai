@@ -2,9 +2,15 @@
 
 ## 2019-03-12 言語処理学会第25回年次大会(NLP2019)
 
-3月12〜15日で開催されたNLP2019に関する情報を公開しました。
+3月12日〜15日で開催されたNLP2019に関する情報を公開しました。
 
 [more...](nlp2019)
+
+## 2018-04-15 The INFORMS Conference on Business Analytics and Operations Research
+
+4月15日〜17日で開催されたAnalytics 2018に関する情報を公開しました。
+
+[more...](analytics2018)
 
 ## 2018-03-13 求人検索エンジン「スタンバイ」から作成した単語ベクトルを公開
 
