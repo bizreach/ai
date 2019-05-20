@@ -6,6 +6,12 @@
 
 [more...](nlp2019)
 
+## 2019-02-23 第33回 Machine Learning 15minutes!
+
+2月23日で開催されたML 15minutesに関する情報を公開しました。
+
+[more...](ml15_33)
+
 ## 2018-11-20 GPU Technology Conference(GTC) China 2018
 
 11月20日〜22日で開催されたGTC China 2018に関する情報を公開しました。
