@@ -36,6 +36,12 @@
 
 [more...](word2vec)
 
+## 2018-02-15 Developers Summit 2018
+
+2月16日で開催されたデブサミ2018に関する情報を公開しました。
+
+[more...](devsumi2018)
+
 ## 2017-05-20 JJUG CCC 2017 Spring
 
 5月20日で開催されたJJUG CCC 2017に関する情報を公開しました。
