@@ -10,3 +10,7 @@
 
 * [HR領域における機械学習と自然言語処理の取り組み](aitechgroup.pdf)
 
+## その他
+
+* [BizReach Tech Blog: NLP2019参加レポート](https://tech.bizreach.co.jp/posts/341/nlp-2019/)
+
