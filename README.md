@@ -6,6 +6,12 @@
 
 [more...](nlp2019)
 
+## 2018-09-13 GPU Technology Conference(GTC) Japan 2018
+
+9月13日〜14日で開催されたGTC Japan 2018に関する情報を公開しました。
+
+[more...](gtc2018japan)
+
 ## 2018-04-15 The INFORMS Conference on Business Analytics and Operations Research
 
 4月15日〜17日で開催されたAnalytics 2018に関する情報を公開しました。
