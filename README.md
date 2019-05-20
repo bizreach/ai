@@ -6,6 +6,12 @@
 
 [more...](nlp2019)
 
+## 2018-11-20 GPU Technology Conference(GTC) China 2018
+
+11月20日〜22日で開催されたGTC China 2018に関する情報を公開しました。
+
+[more...](gtc2018china)
+
 ## 2018-09-13 GPU Technology Conference(GTC) Japan 2018
 
 9月13日〜14日で開催されたGTC Japan 2018に関する情報を公開しました。
